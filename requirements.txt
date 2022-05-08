@@ -1,3 +1,4 @@
+python -m pip install --upgrade pip
 py -m pip install pyproj
 plotly==4.14.3
 pandas==1.2.0
