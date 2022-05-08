@@ -5,10 +5,12 @@
 
 from pyproj import  CRS
 
+
 import pandas as pd  # pip install pandas openpyxl
 import plotly.express as px  # pip install plotly-express
 import streamlit as st  # pip install streamlit
 import matplotlib.pyplot as plt
+
 # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="josefeson", page_icon=":bar_chart:", layout="wide")
 
@@ -165,3 +167,5 @@ def get_next_card(self):
 
 def  get_next() :
     pass
+  
+  
