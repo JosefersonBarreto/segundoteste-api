@@ -1,5 +1,6 @@
 probstructs==0.2.6 
 pyproj==3.0.0.post1
+matplotlib==3.5.2
 plotly==4.14.3
 pandas==1.2.0
 streamlit==1.9.0
